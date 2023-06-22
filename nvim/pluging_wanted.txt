@@ -1,0 +1,7 @@
+COq_nvim
+nvim-surround
+isomorphic_copy  ???
+everforest
+lualine
+barbecue.nvim " winbar
+navigator ???
